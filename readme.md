@@ -1,7 +1,7 @@
 # Hi there, I am Your Ketan Singh
 
 ```
-Short summary about yourself.
+Short summary about myself.
 ```
 
 ## Currently Learning
